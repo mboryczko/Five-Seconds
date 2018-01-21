@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FiveSeconds</string>
+
+
+    <string name="playButtonLabel">PLAY GAME</string>
+    <string name="addQuestionsLabel">ADD QUESTIONS</string>
+    <string name="readRulesLabel">READ RULES</string>
+    <string name="sendOpinionLabel">SEND OPINION</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
